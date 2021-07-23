@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibapps39, otherwise known as Ian Brown!
 - 👀 I’m interested in ... working out at the gym, fitness, technology, runtime performance optimizations. I love science, philosphy, and history!
-- 🌱 I’m currently learning ... Apple software and product development. Swift is my primary langauge but I also use C++ and Objective-C.
+- 🌱 I’m currently learning ... Embedded Systems, Embedded Software Development, microcontrollers (Arudino, Teensy, Raspberry Pi), and Nvidia CUDA!
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... ibapps39@gmail.com 
 
