@@ -9,7 +9,7 @@
 Current projects *as of 07/2021*:
 - [myFirstCProject](https://github.com/ibapps39/myFirstCProject), C - *Join me as I both discover and teach what I've learned using C!* 
 - [recreateRevolved-4D-Math-Engine](https://github.com/ibapps39/recreateRevolved-4D-Math-Engine), C++ - *A basic, vector based engine based off Harlod Serrano's work.*
-- [*firstCUDAProject*](https://github.com/ibapps39/firstCUDAProject), C++/CUDA - *I start to learn CUDA, SMs, and putting concrurency + parrallel programming into action!*
+- [firstCUDAProject](https://github.com/ibapps39/firstCUDAProject), C++/CUDA - *I start to learn CUDA, SMs, and putting concrurency + parrallel programming into action!*
 
 Checkout!
 - [betaBreakingBadCharactersProject](https://github.com/ibapps39/betaBreakingBadCharactersProject), Swift - *A concise chacaracter info scroller/wiki for iOS. (not-optimized)*
