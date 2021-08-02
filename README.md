@@ -12,13 +12,17 @@
 - [firstCUDAProject](https://github.com/ibapps39/firstCUDAProject), C++/CUDA - *I start to learn CUDA, SMs, and putting concrurency + parrallel programming into action!*
 
 **Checkout!**
-- 🍎[betaBreakingBadCharactersProject](https://github.com/ibapps39/betaBreakingBadCharactersProject), Swift - *A concise chacaracter info scroller/wiki for iOS. (not-optimized)*
-- [ibapps39Life](https://github.com/ibapps39/ibapps39Life), HTML/CSS/JS - *A static webpage where I play around Glassmorphism
+- 🛠 [Embedded Systems Portfolio Project](https://github.com/ibapps39?tab=projects), RTOS/FreeRTOS/C/C++/Etc - *See how I take on an ambitious embedded systems project to add to my portfolio.*
+- 🍎 [betaBreakingBadCharactersProject](https://github.com/ibapps39/betaBreakingBadCharactersProject), Swift - *A concise chacaracter info scroller/wiki for iOS. (not-optimized)*
+- 👨‍🎨 [ibapps39Life](https://github.com/ibapps39/ibapps39Life), HTML/CSS/JS - *A static webpage where I play around Glassmorphism
 
 **Todo** 👨‍💻:
 - [x] Start CUDA
 - [x] Start Rust
-- [ ] Microcontrollers/Embedded Systems 
+- [ ] Microcontrollers/Embedded Systems
+  - [x] Research.
+  - [x] Create project.
+  - [ ] Create initial repo. 
 - Raspberry Pi 🍒
 - Arduino
 - Teensy 
