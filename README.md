@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... ibapps39@gmail.com 
 
-🎖My Mission Statement🎖: Perfection is a limit, but you will never get close if we don't strive to.
+🎖My Mission Statement🎖: *Perfection is a limit, but you will never get close if we don't strive to.*
 
 **Current projects *as of 07/2021*:**
 - [myFirstCProject](https://github.com/ibapps39/myFirstCProject), C - *Join me as I both discover and teach what I've learned using C!* 
