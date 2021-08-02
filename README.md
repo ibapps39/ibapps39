@@ -24,8 +24,8 @@
   - [x] Create project.
   - [ ] Create initial repo. 
 - Raspberry Pi 🍒
-- Arduino
-- Teensy 
+- Arduino 🤖
+- Teensy 👾
 - [ ] Install/Setup Distros 🐧
   - [ ] ArchLinux
   - [X] Debian
