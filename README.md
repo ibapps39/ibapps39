@@ -16,17 +16,17 @@
 - 🍎 [betaBreakingBadCharactersProject](https://github.com/ibapps39/betaBreakingBadCharactersProject), Swift - *A concise chacaracter info scroller/wiki for iOS. (not-optimized)*
 - 👨‍🎨 [ibapps39Life](https://github.com/ibapps39/ibapps39Life), HTML/CSS/JS - *A static webpage where I play around Glassmorphism
 
-**Todo** 👨‍💻:
+👨‍💻 **Todo**:
 - [x] Start CUDA
 - [x] Start Rust
 - [ ] Microcontrollers/Embedded Systems
   - [x] Research.
   - [x] Create project.
   - [ ] Create initial repo. 
-- Raspberry Pi 🍒
-- Arduino 🤖
-- Teensy 👾
-- [ ] Install/Setup Distros 🐧
+- 🍒 Raspberry Pi 
+- 🤖 Arduino
+- 👾 Teensy
+- [ ] 🐧 Install/Setup Distros 
   - [ ] ArchLinux
   - [X] Debian
   - [ ] Gentoo
