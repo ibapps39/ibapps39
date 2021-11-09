@@ -7,7 +7,7 @@
 🎖My Mission Statement🎖: *Perfection is a limit, but you will never get close if we don't strive to.*
 
 **Current projects *as of 11/2021*:**
-- [Policy Run Mobile](*coming soon*), Swift- *A small political game on Apple Devices* 
+- [playerU](*coming soon*), Swift- *A small political game on Apple Devices* 
 - [Policy Run Web](*coming soon*), C, WASM - *A small political game for many modern browsers.*
 - [My Driver](*coming soon*), Bash, C -*A basic driver for Gentoo and Arch Linux.*
 - [Gentoo Script](*coming soon*), Bash -*A fast and easy way of installing Gentoo Linux*
