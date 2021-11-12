@@ -7,7 +7,7 @@
 🎖My Mission Statement🎖: *Perfection is a limit, but you will never get close if we don't strive to.*
 
 **Current projects *as of 11/2021*:**
-- [conciseCoding](https://github.com/ibapps39/conciseCoding/) - *A straightforward, concise apprach intro to SWE.
+- [conciseCoding](https://github.com/ibapps39/conciseCoding/) - *A straightforward, concise apprach intro to SWE via Python, Web, and C programming.
 - [conciseCodingMobile](https://github.com/ibapps39/conciseCodingMobile) -*conciseCoding, on Apple devices!*
 - [conciseCodingWeb](https://github.com/ibapps39/conciseCodingWeb) -*conciseCoding but with WASM, JS, and more!*
 
