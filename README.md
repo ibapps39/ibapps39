@@ -7,11 +7,9 @@
 🎖My Mission Statement🎖: *Perfection is a limit, but you will never get close if we don't strive to.*
 
 **Current projects *as of 11/2021*:**
-- [playerU](*coming soon*), Swift- *A small political game on Apple Devices* 
-- [Policy Run Web](*coming soon*), C, WASM - *A small political game for many modern browsers.*
-- [My Driver](*coming soon*), Bash, C -*A basic driver for Gentoo and Arch Linux.*
-- [Gentoo Script](*coming soon*), Bash -*A fast and easy way of installing Gentoo Linux*
-- [CUDA Accel](*coming soon*), C/C++, CUDA - *A faster way of creating art.*
+- [conciseCoding](https://github.com/ibapps39/conciseCoding/) - *A straightforward, concise apprach intro to SWE.
+- [conciseCodingMobile](https://github.com/ibapps39/conciseCodingMobile) -*conciseCoding, on Apple devices!*
+- [conciseCodingWeb](https://github.com/ibapps39/conciseCodingWeb) -*conciseCoding but with WASM, JS, and more!*
 
 **Checkout!**
 - 🛠 [Embedded Systems Portfolio Project](https://github.com/ibapps39?tab=projects), RTOS/FreeRTOS/C/C++/Etc - *See how I take on an ambitious embedded systems project to add to my portfolio.*
