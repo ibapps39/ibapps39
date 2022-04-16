@@ -8,19 +8,21 @@
 🎖My Mission Statement🎖: *Perfection is a limit, but you will never get close if we don't strive to.*
 
 **Current Projects**
-- 🍎 [C_ProProject_Roadmap](https://github.com/ibapps39/C_ProProject_Roadmap), C -  *in progress*
-- 🍎 [Cpp_ProProject_Roadmap](https://github.com/ibapps39/Cpp_ProProject_Roadmap), C++ - *in progress*
+- [C_ProProject_Roadmap](https://github.com/ibapps39/C_ProProject_Roadmap), C -  *in progress*
 
-- 🍎 [Cpp Basic Game](https://github.com/ibapps39/Cpp_Basic_Game), C++ -  *in progress*
+- [Cpp_ProProject_Roadmap](https://github.com/ibapps39/Cpp_ProProject_Roadmap), C++ - *in progress*
 
-- 🍎 [Rust_ProProject_Roadmap](https://github.com/ibapps39/Rust_ProProject_Roadmap), Rust -  *in progress*
+- [Cpp Basic Game](https://github.com/ibapps39/Cpp_Basic_Game), C++ -  *in progress*
 
-- 🍎 [C#_ProProject_Roadmap](https://github.com/ibapps39/CSharp_ProProject_Roadmap), C#/.Net -  *in progress*
+- [Rust_ProProject_Roadmap](https://github.com/ibapps39/Rust_ProProject_Roadmap), Rust -  *in progress*
 
-- 🍎 [Java_ProProject_Roadmap](https://github.com/ibapps39/Java_ProProject_Roadmap), Java/Maven - *in progress*
+- [C#_ProProject_Roadmap](https://github.com/ibapps39/CSharp_ProProject_Roadmap), C#/.Net -  *in progress*
 
-- 🍎 [CUDA_ProProject_Roadmap](https://github.com/ibapps39/CUDA_ProProject_Roadmap), C++/CUDA - *in progress*
-- 🍎 [personalTrainerTool](https://github.com/ibapps39/personalTrainerTool), HTML5/CSS/Javascript -  *in progress*
+- [Java_ProProject_Roadmap](https://github.com/ibapps39/Java_ProProject_Roadmap), Java/Maven - *in progress*
+
+- [CUDA_ProProject_Roadmap](https://github.com/ibapps39/CUDA_ProProject_Roadmap), C++/CUDA - *in progress*
+
+- [personalTrainerTool](https://github.com/ibapps39/personalTrainerTool), HTML5/CSS/Javascript -  *in progress*
 👨‍💻 **Todo**:
 - [ ] Microcontrollers/Embedded Systems
   - [x] Research.
