@@ -1,3 +1,4 @@
+**About Me**
 - 👋 Hi, I’m @ibapps39, otherwise known as Ian Brown!
 - 👀 I’m interested in ... working out at the gym, fitness, technology, runtime performance optimizations. I love science, philosphy, and history!
 - 🌱 I’m currently learning ... Linux kernel and driver development, embedded programming, Nvidia's CUDA, WebAssembly, and Game Programming!
@@ -7,13 +8,19 @@
 🎖My Mission Statement🎖: *Perfection is a limit, but you will never get close if we don't strive to.*
 
 **Current Projects**
-- 
+- 🍎 [C_ProProject_Roadmap](https://github.com/ibapps39/C_ProProject_Roadmap), C -  *in progress*
+- 🍎 [Cpp_ProProject_Roadmap](https://github.com/ibapps39/Cpp_ProProject_Roadmap), C++ - *in progress*
 
-**Checkout!**
-- 🛠 [Embedded Systems Portfolio Project](https://github.com/ibapps39?tab=projects), RTOS/FreeRTOS/C/C++/Etc - *See how I take on an ambitious embedded systems project to add to my portfolio.*
-- 🍎 [betaBreakingBadCharactersProject](https://github.com/ibapps39/betaBreakingBadCharactersProject), Swift - *A concise chacaracter info scroller/wiki for iOS. (not-optimized)*
-- 👨‍🎨 [ibapps39Life](https://github.com/ibapps39/ibapps39Life), HTML/CSS/JS - *A static webpage where I play around Glassmorphism
+- 🍎 [Cpp Basic Game](https://github.com/ibapps39/Cpp_Basic_Game), C++ -  *in progress*
 
+- 🍎 [Rust_ProProject_Roadmap](https://github.com/ibapps39/Rust_ProProject_Roadmap), Rust -  *in progress*
+
+- 🍎 [C#_ProProject_Roadmap](https://github.com/ibapps39/CSharp_ProProject_Roadmap), C#/.Net -  *in progress*
+
+- 🍎 [Java_ProProject_Roadmap](https://github.com/ibapps39/Java_ProProject_Roadmap), Java/Maven - *in progress*
+
+- 🍎 [CUDA_ProProject_Roadmap](https://github.com/ibapps39/CUDA_ProProject_Roadmap), C++/CUDA - *in progress*
+- 🍎 [personalTrainerTool](https://github.com/ibapps39/personalTrainerTool), HTML5/CSS/Javascript -  *in progress*
 👨‍💻 **Todo**:
 - [ ] Microcontrollers/Embedded Systems
   - [x] Research.
