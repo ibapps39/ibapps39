@@ -6,8 +6,8 @@
 
 🎖My Mission Statement🎖: *Perfection is a limit, but you will never get close if we don't strive to.*
 
-**Current projects *as of 11/2021*:**
-
+**Current Projects**
+- 
 
 **Checkout!**
 - 🛠 [Embedded Systems Portfolio Project](https://github.com/ibapps39?tab=projects), RTOS/FreeRTOS/C/C++/Etc - *See how I take on an ambitious embedded systems project to add to my portfolio.*
