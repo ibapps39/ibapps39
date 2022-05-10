@@ -16,7 +16,7 @@
 👨‍💻 **Todo**:
 - [ ] Game Engine C - C, Makefile - 
     - [🚧] State Manager
-      - [✔️🚧 Define state
+      - [X] Define state
       - [✔️] Define state manager
       - [✔️] Define state manager functions
     - [ ] Graphic Initialization
