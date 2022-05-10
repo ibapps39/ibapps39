@@ -15,12 +15,12 @@
 
 👨‍💻 **Todo**:
 - [ ] Game Engine C - C, Makefile - 
-    - [~] State Manager
-      -[X] Define state
-      -[X] Define state manager
-      -[X] Define state manager functions
-    - [] Graphic Initialization
-    - [] Engine Entity
+    - [🚧] State Manager
+      - [✔️🚧 Define state
+      - [✔️] Define state manager
+      - [✔️] Define state manager functions
+    - [ ] Graphic Initialization
+    - [ ] Engine Entity
 
 <!---
 ibapps39/ibapps39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
