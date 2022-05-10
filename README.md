@@ -14,11 +14,11 @@
 - [C_Engine Demo]() - C, C++ - A demo using my own engine, [Game Engine C](https://github.com/ibapps39/Game-Engine-C).
 
 👨‍💻 **Todo**:
-- [ ] Game Engine C - C, Makefile - 
+- [🚧] Game Engine C - C, Makefile - 
     - [🚧] State Manager
       - [X] Define state
-      - [✔️] Define state manager
-      - [✔️] Define state manager functions
+      - [X] Define state manager
+      - [X] Define state manager functions
     - [ ] Graphic Initialization
     - [ ] Engine Entity
 
