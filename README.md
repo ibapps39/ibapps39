@@ -7,47 +7,21 @@
 
 🎖My Mission Statement🎖: *Perfection is a limit, but you will never get close if we don't strive to.*
 
-**Current Projects**
-- [C_ProProject_Roadmap](https://github.com/ibapps39/C_ProProject_Roadmap), C -  *in progress*
+🔍**Current Projects**
+- [Game Engine C](https://github.com/ibapps39/Game-Engine-C) - A game engine written in C.
+- [History Sync]() - Godot, C/C++ - Experience history through a historical timeline and geomtrical transformations.
+- [Eyezekia - Metro Down]() - Unreal, C++ - An FPS experiment into creating a more satifying shooter experience and visuals to match.
+- [C_Engine Demo]() - C, C++ - A demo using my own engine, [Game Engine C](https://github.com/ibapps39/Game-Engine-C).
 
-- [Cpp_ProProject_Roadmap](https://github.com/ibapps39/Cpp_ProProject_Roadmap), C++ - *in progress*
-
-- [Cpp Basic Game](https://github.com/ibapps39/Cpp_Basic_Game), C++ -  *in progress*
-
-- [Rust_ProProject_Roadmap](https://github.com/ibapps39/Rust_ProProject_Roadmap), Rust -  *in progress*
-
-- [C#_ProProject_Roadmap](https://github.com/ibapps39/CSharp_ProProject_Roadmap), C#/.Net -  *in progress*
-
-- [Java_ProProject_Roadmap](https://github.com/ibapps39/Java_ProProject_Roadmap), Java/Maven - *in progress*
-
-- [CUDA_ProProject_Roadmap](https://github.com/ibapps39/CUDA_ProProject_Roadmap), C++/CUDA - *in progress*
-
-- [personalTrainerTool](https://github.com/ibapps39/personalTrainerTool), HTML5/CSS/Javascript -  *in progress*
 👨‍💻 **Todo**:
-- [ ] Microcontrollers/Embedded Systems
-  - [x] Research.
-  - [x] Create project.
-  - [ ] Create initial repo. 
-- [ ] Microcontrollers/Embedded Systems
-  - [x] Research.
-  - [x] Create project.
-  - [ ] Create initial repo. 
-- [ ] Microcontrollers/Embedded Systems
-  - [x] Research.
-  - [x] Create project.
-  - [ ] Create initial repo. 
-- [ ] Microcontrollers/Embedded Systems
-  - [x] Research.
-  - [x] Create project.
-  - [ ] Create initial repo. 
-- [ ] Microcontrollers/Embedded Systems
-  - [x] Research.
-  - [x] Create project.
-  - [ ] Create initial repo. 
-- [ ] Microcontrollers/Embedded Systems
-  - [x] Research.
-  - [x] Create project.
-  - [ ] Create initial repo. 
+- [ ] Game Engine C - C, Makefile - 
+    - [~] State Manager
+      -[X] Define state
+      -[X] Define state manager
+      -[X] Define state manager functions
+    - [] Graphic Initialization
+    - [] Engine Entity
+
 <!---
 ibapps39/ibapps39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
