@@ -2,12 +2,13 @@
 - 👋 Hi, I’m @ibapps39, otherwise known as Ian Brown!
 - 👀 I’m interested in ... working out at the gym, fitness, technology, runtime performance optimizations. I love science, philosphy, and history!
 - 🌱 I’m currently learning ... Linux kernel and driver development, embedded programming, Nvidia's CUDA, WebAssembly, and Game Programming!
-- 💞️ I’m looking to collaborate on ... anything! I'm not huge into SQL and/or database management though (that isn't a no for those projects though).
+- 💞️ I’m looking to collaborate on ... Game (Console/System/CPU/etc) Emulation, Virtualization, Game and/or Game Engine Developement, and low spec. and level development.
 - 📫 How to reach me ... ibapps39@gmail.com 
 
 🎖My Mission Statement🎖: *Perfection is a limit, but we will never get close if we don't strive to.*
 
 🔍**Current Projects**
+- [🚧] I REALLY need to update this!
 - [C Raycaster](https://github.com/ibapps39/Graphics_Playground/tree/main/demos/raycaster) - A raycaster using OpenGL, GLFW, and C!
 - [Game Engine C](https://github.com/ibapps39/Game-Engine-C) - A game engine written in C.
 - [Graphics_Playground](https://github.com/ibapps39/Graphics_Playground) - See my work involving various graphical libraries, concepts, and more!
