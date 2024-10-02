@@ -9,23 +9,23 @@
 
 🔍**Current Projects**
 - [🚧] I REALLY need to update this!
-- [C Raycaster](https://github.com/ibapps39/Graphics_Playground/tree/main/demos/raycaster) - A raycaster using OpenGL, GLFW, and C!
-- [Game Engine C](https://github.com/ibapps39/Game-Engine-C) - A game engine written in C.
-- [Graphics_Playground](https://github.com/ibapps39/Graphics_Playground) - See my work involving various graphical libraries, concepts, and more!
-- [Tetris_C](https://github.com/ibapps39/Tetris_C) - My current work towards buld a C clone of Tetris.
+- [ibTrisSwiftUI](https://github.com/ibapps39/ibTrisSwiftUI) - Tetromino (Tetris) but built with Swift and SwiftUI, available for iOS 18!
+- [iosGPUCalculate]([https://github.com/ibapps39/Game-Engine-C](https://github.com/ibapps39/iosGPUCalculate)) - A possibly better approach for Apple's "Performing Calculations on a GPU", at least for iOS. Metal/Swift/SwiftUI
+- [conciseCoding](https://github.com/ibapps39/conciseCoding) - Need some help learning or teaching programming, CS, and/or technical literacy? Look no further! Revolves around C, Python, and various Web and mobile software developement. 
+- [EyezekiaDestructionTango](https://github.com/ibapps39?tab=repositories) - Ongoing game using Godot.
 <!-- - [History Sync]() - Godot, C/C++ - Experience history through a historical timeline and geomtrical transformations.
 - [Eyezekia - Metro Down]() - Unreal, C++ - An FPS experiment into creating a more satifying shooter experience and visuals to match. -->
 <!-- - [C_Engine Demo]() - C, C++ - A demo using my own engine, 
 - [Game Engine C](https://github.com/ibapps39/Game-Engine-C). -->
 
 👨‍💻 **Todo**:
-- [🚧] Game Engine C - C, Makefile - 
-    - [🚧] State Manager
-      - [X] Define state
-      - [X] Define state manager
-      - [X] Define state manager functions
-    - [ ] Graphic Initialization
-    - [ ] Engine Entity
+- [🚧] Community Engagement - 
+    - [🚧] Open Source Commits
+      - [X] Embedded/RTOS Project
+      - [X] DECTalk Swift implementation
+      - [X] Game
+    - [ ] Refactor Graphics Programming Project
+    - [ ] Expand and R&D conciseCoding
 
 <!---
 ibapps39/ibapps39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
