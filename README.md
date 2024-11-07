@@ -12,7 +12,7 @@
 - [ibTrisSwiftUI](https://github.com/ibapps39/ibTrisSwiftUI) - Tetromino (Tetris) but built with Swift and SwiftUI, available for iOS 18!
 - [iosGPUCalculate]([https://github.com/ibapps39/Game-Engine-C](https://github.com/ibapps39/iosGPUCalculate)) - A possibly better approach for Apple's "Performing Calculations on a GPU", at least for iOS. Metal/Swift/SwiftUI
 - [conciseCoding](https://github.com/ibapps39/conciseCoding) - Need some help learning or teaching programming, CS, and/or technical literacy? Look no further! Revolves around C, Python, and various Web and mobile software developement. 
-- [EyezekiaDestructionTango](https://github.com/ibapps39?tab=repositories) - Ongoing game using Godot.
+- [poliAlpha](https://github.com/ibapps39/poliAlpha) - An iOS political simulation game.
 <!-- - [History Sync]() - Godot, C/C++ - Experience history through a historical timeline and geomtrical transformations.
 - [Eyezekia - Metro Down]() - Unreal, C++ - An FPS experiment into creating a more satifying shooter experience and visuals to match. -->
 <!-- - [C_Engine Demo]() - C, C++ - A demo using my own engine, 
