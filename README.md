@@ -9,10 +9,19 @@
 
 🔍**Current Projects**
 - [🚧] I REALLY need to update this!
+- [Chip8]([https://github.com/ibapps39/ibTrisSwiftUI](https://github.com/ibapps39/Chip8Cpp)) - My first step towards learning to be a emulator, hopefully ps2/3/+, developer
+- [iosGPUCalculate]([https://github.com/ibapps39/Game-Engine-C](https://github.com/ibapps39/iosGPUCalculate)) - A possibly better approach for Apple's "Performing Calculations on a GPU", at least for iOS. Metal/Swift/SwiftUI
+- [armNeonMatrixShader]([https://github.com/ibapps39/conciseCoding](https://github.com/ibapps39/armNeonMatrixShader)) - My learning experince with Neon
+- [SumoTopple]((https://github.com/ibapps39/SumoTopple)) - a 3d version of my 2d game using raylib
+- [raylibPreAlphaAbstract](https://github.com/ibapps39/raylibPreAlphaAbstract) - A 2d game using raylib
+<!--
 - [ibTrisSwiftUI](https://github.com/ibapps39/ibTrisSwiftUI) - Tetromino (Tetris) but built with Swift and SwiftUI, available for iOS 18!
 - [iosGPUCalculate]([https://github.com/ibapps39/Game-Engine-C](https://github.com/ibapps39/iosGPUCalculate)) - A possibly better approach for Apple's "Performing Calculations on a GPU", at least for iOS. Metal/Swift/SwiftUI
 - [conciseCoding](https://github.com/ibapps39/conciseCoding) - Need some help learning or teaching programming, CS, and/or technical literacy? Look no further! Revolves around C, Python, and various Web and mobile software developement. 
 - [poliAlpha](https://github.com/ibapps39/poliAlpha) - An iOS political simulation game.
+
+-->
+
 <!-- - [History Sync]() - Godot, C/C++ - Experience history through a historical timeline and geomtrical transformations.
 - [Eyezekia - Metro Down]() - Unreal, C++ - An FPS experiment into creating a more satifying shooter experience and visuals to match. -->
 <!-- - [C_Engine Demo]() - C, C++ - A demo using my own engine, 
